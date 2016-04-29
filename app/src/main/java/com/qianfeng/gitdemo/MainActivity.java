@@ -16,5 +16,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tv3;//哈哈
         TextView tv4;
         TextView tv5;
+        TextView tv6;
+
     }
 }
