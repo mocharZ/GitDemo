@@ -11,12 +11,15 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         TextView tv1;
-
         TextView tv2;
         TextView tv3;//哈哈
+
+        String s="主要";
+
+
+
         TextView tv4;
         TextView tv5;
         TextView tv6;
-
     }
 }
